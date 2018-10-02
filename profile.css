@@ -1,0 +1,104 @@
+body {
+	background-color: #f2f2f2;/*#80ccff;*/
+	color: #b8b8b8;
+	font-family:sans-serif;
+	font-size:90%;
+	width: 900px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Centro Part*/
+div#centro{
+	background: white;
+	padding-right:100px;
+	padding-left: 100px;
+	padding-bottom: 80px;
+	padding-top: 50px;
+	border: 5px dashed #f2f2f2;
+}
+
+p#moveon{
+
+	font-style:italic;
+	float: right;
+}
+p#sign{
+	padding-left:350px;
+}
+q{
+	font-style:italic;
+}
+h3{
+	font-style:italic;
+	font-size: 110%;
+}
+
+
+.LI-profile-badge{
+	float: right;
+	padding: 5px;
+}
+img.icon{
+	float: right;
+	margin: 5px;
+}
+
+img#lastimg{
+	display:block;
+	clear: both;
+	margin: auto;
+}
+
+
+a:link{
+	color: gray; 
+	text-decoration:none;
+} 
+a:active:{
+	color: red; 
+} 
+a:visited{
+	color:gray;
+	text-decoration:none;
+}
+a:hover{
+	color: red; 
+	text-decoration:underline;
+}
+
+
+h1{
+	border-bottom-style: solid;
+	border-width: 1px;
+}
+
+p, ul {
+	font-size: 120%;
+}
+p#first, p#second{
+	text-indent: 60px;
+	font-style:italic;
+}
+p#first{
+	padding-right: 220px;
+	padding-left:20px;
+}
+p#second{
+	padding-left: 220px;
+}
+	
+p#footage{
+	width: 900px;
+	font-size:60%;
+	color:gray;
+	text-align:center;
+}
+ul.second{
+	font-size: 90%;
+}
+
+

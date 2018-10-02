@@ -1,0 +1,4 @@
+What is compputer science?
+Computer science is an integrated field that includes all kinds of computational skills and information processing. From the analysis of abstract algorithm and formatting language to more specific subject such programming language, programs design, and hardware installation. 
+
+As a degree in college, it is significantly different with mathematics, the design of the computational program, software engineering, and computer engineering, but often be confused. Even those fields have some details of crossover and coverage.
