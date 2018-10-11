@@ -1,5 +1,5 @@
 body {
-	background-color: #f2f2f2;/*#80ccff;*/
+	background-color: #85C1E9;/*#80ccff;*/
 	font-family: /*Arial, "Time New Roman",*/ sans-serif;
 	font-size:100%;
 	width: 900px;
@@ -21,7 +21,7 @@ ul.header_bar {
     	margin: 0;
     	padding: 0;
     	overflow: hidden;
-    	background-color: gray;/*#333;*/
+    	background-color: black;/*#333;*/
 }
 
 li.header_bar {
